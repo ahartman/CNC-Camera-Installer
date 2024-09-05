@@ -6,7 +6,7 @@ CNC Camera requires Mac OSX 11.x or higher and is a 'universal app' for older Ma
 ## Screen images
 ![Red Crosshair](images/red_crosshair.jpg) ![White Crosshair](images/white_crosshair.jpg)
 
-The left image shows a red crosshair and a magnification of 1x, the right one a white crosshair with a magnification of 2x.The diagonal cross was drawn on the material with a fine pencil.
+The first image shows a red crosshair and a magnification of 1x, the second one a white crosshair with a magnification of 2x.The diagonal cross was drawn on the material with a fine pencil.
 ## How to use
 You should first connect your CNC router USB-camera to your Mac and then start CNC Camera. Theoretically you can connect multiple cameras although this is of little use.
 
